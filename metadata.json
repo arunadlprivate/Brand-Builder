@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "Describe your product and visualize consistent brand advertising across billboards, newspapers, social feeds, and luxury print media powered by Nano-Banana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
